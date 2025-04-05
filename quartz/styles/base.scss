@@ -191,12 +191,16 @@ a {
 
     @media all and not ($desktop) {
       padding: 0 1rem;
+      margin-right: 10px auto;
     }
     @media all and ($mobile) {
       margin: 0 auto;
     }
 
     & .sidebar {
+      @media all and not ($desktop) {
+        margin-right: 10px;
+      }
       gap: 2rem;
       top: 0;
       box-sizing: border-box;
