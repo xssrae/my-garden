@@ -24,6 +24,8 @@ const defaultOptions: FolderContentOptions = {
   showSubfolders: true,
 }
 
+
+
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
