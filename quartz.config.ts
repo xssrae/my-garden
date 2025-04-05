@@ -1,21 +1,16 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: " ˙ ̟🫐 Rae's Garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -23,42 +18,46 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Bricolage Grotesque",
+        // body: "Source Sans Pro", << original
+        body: "Bricolage Grotesque",
+        //body: "Roboto Serif",
+        code: "IBM Plex Mono", //Bricolage Grotesque
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FAF9FF", //background color
+          lightgray: "#E7E6EB", //details & code fix color
+          gray: "#7c7f93",
+          darkgray: "#4c4f69", //font color
+          dark: "#8d5fc8",//header color
+          secondary: "#6e6fc1", //links & folders color
+          tertiary: "#df8e1d",//highlight cursor
+          highlight: "#E7E6EB", //tags highlight color
+          textHighlight: "#babbf1", //higlight text color
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e", //background color
+          lightgray: "#45475a", //details & code fix color
+          gray: "#babbf1",
+          darkgray: "#e6e9f5", //font/simbols color
+          dark: "#cba6f7", //header color
+          secondary: "#b7bdf8", //links & folders color
+          tertiary: "#bca87c", //highlight cursor
+          highlight: "#313244",  //tags highlight color
+          textHighlight: "#3e487f", //higlight text color
         },
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
+      //Plugin.StickyNotes(),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
