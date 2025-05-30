@@ -5,6 +5,8 @@ tags:
   - organização
 relação: "[[Planner e Agendas - Meus métodos de Organização pessoal|TDAH]]"
 ---
+![[ChatGPT Image 29 de abr. de 2025, 20_43_50.png || 500]]
+
 Sabemos que a rotina de um neurodivergente pode acabar sendo caótica na maior parte das vezes. Por isso, é essencial para nós tentarmos desenvolver uma rotina personalizada para seguir. 
 
 Algumas técnicas e dicas que mostrarei a seguir podem facilitar muito as coisas, nos ajudando a **lembrar de compromissos** e **reduzir o esquecimento de pertences**, além de **diminuir consideravelmente as nossas crises**.

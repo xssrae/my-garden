@@ -2,7 +2,7 @@
 
 Pode ter sido um surto impulsivo. Mas já estava a semanas sem entrar com frequência. 
 
-Comecei a fazer isso para dedicar mais tempo a meus hobbies e estudos. Mas com o tempo, minha [cabeça faminta a dopamina](Dopamina) me levava a abrir e reinstalar novamente o aplicativo. Porém, em vez de me sentir "saciada" e com meu FOMO curado por alguns instantes, logo sentia também uma irritação e que meu tempo estava sendo jogado fora de alguma forma
+Comecei a fazer isso para dedicar mais tempo a meus hobbies e estudos. Mas com o tempo, minha [cabeça faminta a dopamina](Dopamina.md) me levava a abrir e reinstalar novamente o aplicativo. Porém, em vez de me sentir "saciada" e com meu FOMO curado por alguns instantes, logo sentia também uma irritação e que meu tempo estava sendo jogado fora de alguma forma
 
 Esse ciclo me dava desgosto.
 
