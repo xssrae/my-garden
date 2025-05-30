@@ -12,9 +12,8 @@ Quando a dopamina está em níveis adequados, o cérebro funciona de forma efici
 
 No caso de pessoas com TDAH, o sistema dopaminérgico é **desregulado**, o que significa que a quantidade ou a eficácia da dopamina no cérebro pode ser *insuficiente* para um funcionamento normal. 
 
-Estudo após estudo [tem mostrado que pessoas com TDAH], particularmente aquelas que apresentam **dificuldade de concentração**, **impulsividade** e **hiperatividade**, frequentemente têm **menores níveis de dopamina** em áreas do cérebro associadas a **atenção**, **memória de trabalho** e **controle de impulsos**, como o **córtex pré-frontal**.
+Pessoas com TDAH, particularmente aquelas que apresentam **dificuldade de concentração**, **impulsividade** e **hiperatividade**, frequentemente têm **menores níveis de dopamina** em áreas do cérebro associadas a **atenção**, **memória de trabalho** e **controle de impulsos**, como o **córtex pré-frontal**.
 
-%%teste %%
 # Efeitos no Comportamento e Cognitivo  
 #### 3.1 Desafios de Atenção e Concentração  
 Uma das características mais prevalentes do TDAH é a **dificuldade em manter a atenção** em atividades que não são extremamente estimulantes ou recompensadoras. Como a dopamina está profundamente relacionada ao sistema de **motivação e recompensa**, uma falta desse neurotransmissor pode favorecer a **incapacidade de se concentrar** em tarefas que não oferecem uma **sensação de gratificação imediata**.

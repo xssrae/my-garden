@@ -1,3 +1,7 @@
+---
+tags:
+  - prompts
+---
 Estou criando um planejamento para alcançar algumas metas de longo prazo (1 a 3 anos) médio prazo (6 a 12 meses) e curto prazo (3 a 6 meses): 
 - Meta 1
 - Meta 2
