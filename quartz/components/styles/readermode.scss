@@ -1,4 +1,4 @@
-.darkmode {
+.readermode {
   cursor: pointer;
   padding: 0;
   position: relative;
@@ -16,32 +16,19 @@
     height: 20px;
     top: calc(50% - 10px);
     fill: var(--darkgray);
+    stroke: var(--darkgray);
     transition: opacity 0.1s ease;
   }
 }
 
-:root[saved-theme="dark"] {
-  color-scheme: dark;
-}
+:root[reader-mode="on"] {
+  & .sidebar.left,
+  & .sidebar.right {
+    opacity: 0;
+    transition: opacity 0.2s ease;
 
-:root[saved-theme="light"] {
-  color-scheme: light;
-}
-
-:root[saved-theme="dark"] .darkmode {
-  & > .dayIcon {
-    display: none;
-  }
-  & > .nightIcon {
-    display: inline;
-  }
-}
-
-:root .darkmode {
-  & > .dayIcon {
-    display: inline;
-  }
-  & > .nightIcon {
-    display: none;
+    &:hover {
+      opacity: 1;
+    }
   }
 }
