@@ -15,7 +15,7 @@ Olá, eu sou a **Rae**! Sou estudante do ultimo ano de Ciência da Computação 
 ## Sobre mim
 - Atualmente estou estudando Desenvolvimento Full-Stack com as tecnologias Java Spring Boot e Angular para me preparar para um novo time dentro do meu cargo atual.
 - Além de Dev, sou alguém extremamente interessada em assuntos de Cybersecurity.
-- Sou uma pessoa Neurodivergente, sou [[Transtorno do Espectro Autista (TEA)||Autista]] e [[TDAH - Transtorno do Déficit de Atenção e Hiperatividade|TDAH ]]
+- Sou uma pessoa Neurodivergente, sou [[Transtorno do Espectro Autista (TEA)|Autista]] e [[TDAH - Transtorno do Déficit de Atenção e Hiperatividade|TDAH ]]
 - Tenho interesse em escrita desde a infância, mas só venho utilizando isso como hobbie e hábito na vida adulta.
 ## Meus interesses
 Uma lista resumida de coisas que quero aprender e estudar mais sobre:
